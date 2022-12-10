@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    width: 100%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:cadetblue;
+    
+}
+.main-div{
+    background-color:whitesmoke;
+    border-radius: 2vh ;
+    box-shadow:1vh 1vh 1vw black ;
+    text-align:center;
+    width:50vw;
+}
+.div21{
+   
+    background-color: bisque;
+}
+.pp{
+    font-weight:bolder;font-size:25px;border-radius:70px;
+}
+.hdd21{
+    display: inline;
+
+}
